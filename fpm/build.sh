@@ -1,1 +1,1 @@
-docker build -t oceanho/fpm:centos7 .
+docker build --no-cache -t oceanho/fpm:centos7 .
